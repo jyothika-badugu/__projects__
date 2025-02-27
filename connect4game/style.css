@@ -1,0 +1,30 @@
+body{
+    font-size: Arial,helvetica,sans-serif;
+    text-align: center;
+    background: linear-gradient(120deg,hsl(159, 70%, 15%),rgb(25, 97, 62));
+}
+#board {
+    height: 540px;
+    width: 630px;
+    background-color: blue;
+    border: 10px solid navy;
+    margin:0 auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.title {
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+    background-color: rgb(239, 234, 234);
+    border-radius: 50%;
+    border: 5px solid navy;
+
+}
+.red-piece{
+    background-color: red;
+}
+.yellow-piece{
+    background-color: yellow;
+}

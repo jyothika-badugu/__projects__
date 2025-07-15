@@ -30,12 +30,6 @@ A task manager app where users can add, delete, and mark tasks as completed.
 
 ---
 
-### 5. 🛒 E-commerce Website
-A responsive e-commerce front-end site showcasing products and user interface design.  
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
 ## 🛠 How to Run
 
 Clone this repository:

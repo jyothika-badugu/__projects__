@@ -35,4 +35,4 @@ A task manager app where users can add, delete, and mark tasks as completed.
 Clone this repository:
 ```bash
 git clone https://github.com/jyothika-badugu/__projects__.git
-cd __projects__/<project-folder>
+cd _projects__/<project-folder>

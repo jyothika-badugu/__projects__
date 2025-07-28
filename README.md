@@ -3,7 +3,6 @@
 Welcome! This repository is a curated collection of my personal and academic projects built during my learning journey in web development and programming. Each folder contains an individual project with its own code, assets, and purpose.
 
 ---
-
 ## 📁 Projects Overview
 
 ### 1. 🧮 Age Calculator
